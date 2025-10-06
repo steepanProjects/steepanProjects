@@ -17,13 +17,20 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Snake
+      - name: Generate Snake (Light)
         uses: Platane/snk@master
-        id: snake-gif
+        id: snake-light
         with:
           github_user_name: steepanProjects
           gif_out_path: ./output/github-contribution-grid-snake.gif
           svg_out_path: ./output/github-contribution-grid-snake.svg
+
+      - name: Generate Snake (Dark)
+        uses: Platane/snk@master
+        id: snake-dark
+        with:
+          github_user_name: steepanProjects
+          svg_out_path: ./output/github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
