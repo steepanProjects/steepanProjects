@@ -325,20 +325,37 @@ $ sudo cat /var/log/certifications.db
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=nightowl&hide_border=true&count_private=true&title_color=00D9FF&text_color=FFFFFF&icon_color=ffc300&bg_color=0d1117&ring_color=00D9FF&border_radius=12" alt="Performance Metrics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=nightowl&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_radius=12" alt="Language Distribution" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=nightowl&hide_border=true&count_private=true&title_color=00D9FF&text_color=FFFFFF&icon_color=ffc300&bg_color=0d1117&ring_color=00D9FF&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0066CC&text_color=333333&icon_color=FF6B35&bg_color=FFFFFF&ring_color=0066CC&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=nightowl&hide_border=true&count_private=true&title_color=00D9FF&text_color=FFFFFF&icon_color=ffc300&bg_color=0d1117&ring_color=00D9FF&border_radius=12" alt="Performance Metrics" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=nightowl&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=default&hide_border=true&title_color=0066CC&text_color=333333&bg_color=FFFFFF&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=nightowl&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&border_radius=12" alt="Language Distribution" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=nightowl&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=ffc300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&background=0d1117&border_radius=12" alt="Contribution Frequency" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=nightowl&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=ffc300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&background=0d1117&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=default&hide_border=true&stroke=0066CC&ring=0066CC&fire=FF6B35&currStreakNum=333333&sideNums=333333&currStreakLabel=0066CC&sideLabels=0066CC&dates=333333&background=FFFFFF&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=nightowl&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=ffc300&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF&background=0d1117&border_radius=12" alt="Contribution Frequency" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=github-dark-dimmed&hide_border=true&color=00D9FF&line=00D9FF&point=ffc300&area=true&area_color=00D9FF&title_color=00D9FF&bg_color=0d1117&radius=12" alt="Activity Timeline" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=github-dark-dimmed&hide_border=true&color=00D9FF&line=00D9FF&point=ffc300&area=true&area_color=00D9FF&title_color=00D9FF&bg_color=0d1117&radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=github-light&hide_border=true&color=0066CC&line=0066CC&point=FF6B35&area=true&area_color=0066CC&title_color=0066CC&bg_color=FFFFFF&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=github-dark-dimmed&hide_border=true&color=00D9FF&line=00D9FF&point=ffc300&area=true&area_color=00D9FF&title_color=00D9FF&bg_color=0d1117&radius=12" alt="Activity Timeline" />
+</picture>
 
 </div>
 
