@@ -450,7 +450,7 @@ steepan@quantum-lab:~$ cat active_research.log
     ⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀⠀⭐⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀⠀⠀⠀
 ```
 
-**✦ SIGNAL SOURCE: [Steepan P](https://github.com/steepanProjects) · Software Development Engineer · System Architect ✦**
+**✦ SIGNAL SOURCE: [** **S** **T** **E** **E** **P** **A** **N** **&nbsp;&nbsp;&nbsp;** **P** **](https://github.com/steepanProjects) · Software Development Engineer · System Architect ✦**
 
 ```
     ═══════════════════════════════════════
