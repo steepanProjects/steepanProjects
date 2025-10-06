@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=200&section=header&text=Steepan%20P&fontSize=60&fontAlignY=35&desc=Aspiring%20Software%20Development%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=DC2626&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:DC2626:FF6B6B:FF8E53&height=300&section=header&text=Steepan%20P&fontSize=70&fontAlignY=35&desc=Aspiring%20Software%20Development%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=3&fontAlign=50" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=💡+Aspiring+Software+Development+Engineer;🚀+Full-Stack+Developer+%26+Problem+Solver;⚡+AI+%26+Data+Science+Enthusiast;🌟+Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Software+Development+Engineer;Full-Stack+Developer+%26+Problem+Solver;AI+%26+Data+Science+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -16,14 +16,14 @@
 
 <div align="center">
 
-💡 **Aspiring Software Development Engineer** passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving complex problems.  
-🚀 Currently pursuing **B.Tech in AI & Data Science** while developing expertise in **React, Express.js, Python, and DevOps** technologies.
+**Aspiring Software Development Engineer** passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving complex problems.  
+Currently pursuing **B.Tech in AI & Data Science** while developing expertise in **React, Express.js, Python, and DevOps** technologies.
 
 </div>  
 
 ---
 
-## 🎓 Education
+## Education
 
 **Kalaignar Karunanidhi Institute of Technology** | Coimbatore, India  
 **B.Tech in Artificial Intelligence & Data Science** | CGPA: 8.26 | 2023 – 2027
@@ -33,7 +33,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Web Development Intern** | LearnLogicify Technologies | Dec 2024  
 *Coimbatore, India*
@@ -44,9 +44,9 @@
 
 ---
 
-## 🔧 Technical Skills  
+## Technical Skills  
 
-### 💻 Programming Languages  
+### Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>  
 
-### 🎨 Frontend Development  
+### Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>  
 
-### ⚙️ Backend & Database  
+### Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>  
 
-### ☁️ DevOps & Cloud  
+### DevOps & Cloud  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
@@ -84,14 +84,14 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>  
 
-### 📊 DSA & Problem Solving  
+### DSA & Problem Solving  
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white"/>
 </p>  
 
-### ☁️ Tools & Platforms  
+### Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,7 +101,7 @@
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 ### 🎵 **HarmonyLearn** – AI-Powered Music Practice Platform (2025)
 - **Tech Stack:** React, Express, MongoDB, WebSockets
@@ -152,26 +152,30 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&ring_color=DC2626&border_color=DC2626" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=DC2626&text_color=333333&icon_color=DC2626&ring_color=DC2626&border_color=DC2626" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=default&hide_border=true&title_color=DC2626&text_color=333333&border_color=DC2626" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=dark&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DC2626&sideLabels=DC2626&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=default&hide_border=true&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=333333&sideNums=333333&currStreakLabel=DC2626&sideLabels=DC2626&dates=333333" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=red&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=FFFFFF&area=true&area_color=DC2626&title_color=DC2626" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=default&hide_border=true&color=DC2626&line=DC2626&point=DC2626&area=true&area_color=DC2626&title_color=DC2626" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/steepanProjects/steepanProjects/output/github-contribution-grid-snake.svg" alt="github-snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steepanProjects/steepanProjects/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steepanProjects/steepanProjects/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/steepanProjects/steepanProjects/output/github-contribution-grid-snake.svg" alt="github-snake" />
+</picture>
 
 </div>  
 
