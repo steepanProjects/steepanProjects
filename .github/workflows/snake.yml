@@ -9,9 +9,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake
         uses: Platane/snk@master
@@ -20,7 +24,6 @@ jobs:
           github_user_name: steepanProjects
           gif_out_path: ./output/github-contribution-grid-snake.gif
           svg_out_path: ./output/github-contribution-grid-snake.svg
-          dark_out_path: ./output/github-contribution-grid-snake-dark.svg
 
       - name: Push to GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
