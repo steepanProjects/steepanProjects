@@ -1,7 +1,8 @@
-name: generate-snake
+name: Generate Snake
 
 on:
   schedule:
+    # Runs every day at 00:00 UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -9,15 +10,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: steepanProjects
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          gif_out_path: ./output/github-contribution-grid-snake.gif
+          svg_out_path: ./output/github-contribution-grid-snake.svg
+          dark_out_path: ./output/github-contribution-grid-snake-dark.svg
+
+      - name: Push to GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: 'docs: update contribution snake'
+          file_pattern: 'output/*.svg output/*.gif'
