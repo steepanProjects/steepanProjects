@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dharaneesh-2005&color=DC2626&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/dharaneesh-2005?style=for-the-badge&logo=github&color=DC2626&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/dharaneesh-2005?style=for-the-badge&logo=github&color=DC2626&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=steepanProjects&color=DC2626&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/steepanProjects?style=for-the-badge&logo=github&color=DC2626&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/steepanProjects?style=for-the-badge&logo=github&color=DC2626&labelColor=000000)
 
 </div>
 
@@ -152,30 +152,26 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharaneesh-2005&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&ring_color=DC2626&border_color=DC2626" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-2005&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=steepanProjects&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&icon_color=DC2626&ring_color=DC2626&border_color=DC2626" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steepanProjects&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=FFFFFF&border_color=DC2626" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharaneesh-2005&theme=dark&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DC2626&sideLabels=DC2626&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=steepanProjects&theme=dark&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=DC2626&sideLabels=DC2626&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharaneesh-2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=FFFFFF&area=true&area_color=DC2626&title_color=DC2626" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=steepanProjects&theme=red&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=FFFFFF&area=true&area_color=DC2626&title_color=DC2626" alt="Activity Graph" />
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharaneesh-2005/dharaneesh-2005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharaneesh-2005/dharaneesh-2005/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dharaneesh-2005/dharaneesh-2005/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/steepanProjects/steepanProjects/output/github-contribution-grid-snake.svg" alt="github-snake" />
 
 </div>  
 
@@ -202,7 +198,7 @@
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://github.com/dharaneesh-2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/steepanProjects"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:steepan430@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+918610242418"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
@@ -214,6 +210,6 @@
 ### 💡 Fun Fact
 *"In the symphony of code and algorithms, every problem is a melody waiting to be composed!"*
 
-**⭐ From [Steepan P](https://github.com/dharaneesh-2005)**
+**⭐ From [Steepan P](https://github.com/steepanProjects)**
 
 </div>
